@@ -17,4 +17,10 @@ We all have gone through the problem of scanning a file from our mobile and then
 So this webapp is the solution to it, just scan your file and the open the website, no need to download any app, generate your code, upload your file from recent,
  then open the website on pc enter code and just this, now you can download your file on one click.
  
+ ## 🛠️ Technologies Used
+
+![](https://forthebadge.com/images/badges/uses-html.svg)
+
+[<img target="_blank" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/v5f61782021051fb502364887a46a1c5ce2cd6f3d29a3549e907afe67612e9bba/firebase/images/lockup.png" width=280>](https://gunicorn.org)
+ 
  

@@ -33,14 +33,14 @@ So this webapp is the solution to it, just scan your file and the open the websi
  
  
   <a>
-    <img src="https://drive.google.com/uc?export=view&id=1TGgPOKs-IFRyQI2hoZrMSNasehFBoQ3k"
+    <img src="https://drive.google.com/uc?export=view&id=1TGgPOKs-IFRyQI2hoZrMSNasehFBoQ3k" width = "200"
   </a>
  
  
  
  
   <a>
-    <img src="https://drive.google.com/uc?export=view&id=1-I8bexTVklAho3IXrbAWETw6yzUG_OXD" alt="Logo" width="150" height="150">
+    <img src="https://drive.google.com/uc?export=view&id=1-I8bexTVklAho3IXrbAWETw6yzUG_OXD" alt="Logo" width="200" >
   </a>
  
  

@@ -27,13 +27,13 @@ So this webapp is the solution to it, just scan your file and the open the websi
  ## 🔍 Overview of the Dataset
  
   <a>
-    <img src="https://drive.google.com/uc?export=view&id=1G_TFnWpeh-01fZr8esmpEwExYCXLlLox" alt="Logo" width="150" height="150">
+    <img src="https://drive.google.com/uc?export=view&id=1G_TFnWpeh-01fZr8esmpEwExYCXLlLox"  >
   </a>
  
  
  
   <a>
-    <img src="https://drive.google.com/uc?export=view&id=1TGgPOKs-IFRyQI2hoZrMSNasehFBoQ3k" alt="Logo" width="150" height="150">
+    <img src="https://drive.google.com/uc?export=view&id=1TGgPOKs-IFRyQI2hoZrMSNasehFBoQ3k"
   </a>
  
  
